@@ -1,3 +1,3 @@
 # Topic
-## Turing Machine
-## Number Teory
+- Turing Machine
+- Number Teory
