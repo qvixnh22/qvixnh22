@@ -12,7 +12,7 @@ Algorithm, Computattion, Complexity, Logical Object
   - Monoid Action
   - Datatype Differentiation for Abstract Algebra
   - Galois Theory
-- Abstract Data Structure
+- Data Structure
   - Segment Tree Beats
   - Splay Tree
   - eertree
@@ -25,7 +25,7 @@ Algorithm, Computattion, Complexity, Logical Object
   - Zeckendorf's Theorem
 
 # What I have done
-- 춘배컵 출제/검수 O
+- 춘배컵 출제 O/검수
 - 파댕이컵 개최 및 출제 E, H/검수 
 - GEC2 검수
 - SCSC SCPC 검수
