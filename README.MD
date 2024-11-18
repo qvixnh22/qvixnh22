@@ -17,7 +17,7 @@ Algorithm, Computattion, Complexity, Logical Object
   - Splay Tree
   - eertree
 - Algorithm
-  - Cost Scaling for MCMF
+  - Cost Scaling/Push Relabel for MCMF
   - Floor Sum (Lattice Point under Line)
 - Number Theory
   - Xudyh's sieve (Mertense Trick)
