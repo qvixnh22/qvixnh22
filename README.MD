@@ -1,4 +1,4 @@
-Algorithm, Computattion, Complexity, Logical Object
+- PNU CSE 2021
 
 # Topic/Interest
 - Graph Theory
@@ -12,6 +12,8 @@ Algorithm, Computattion, Complexity, Logical Object
   - Monoid Action
   - Datatype Differentiation for Abstract Algebra
   - Galois Theory
+    - Automorphism Group on Other Categories (especially monoid/string/graph)
+  - Quotient Category
 - Data Structure
   - Segment Tree Beats
   - Splay Tree
