@@ -35,4 +35,4 @@
 
 # Competition
 - 2024 UCPC 본선 49th (예선 51st)
-- 2024 ICPC 본선 ??th (예선 60th)
+- 2024 ICPC 본선 47th (예선 60th), seed 220th
